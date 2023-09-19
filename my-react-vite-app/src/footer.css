@@ -1,0 +1,30 @@
+.footer-links {
+  border: 1px solid magenta;
+  /* background-color: #C0B0A9; */
+  /* background-color:#E0DBD9; */
+  font-weight: bold;
+  color: #56627A;
+  display: flex;
+  align-items: center;
+  gap: .5em;
+  /* padding: .5em 1em; */
+  border-radius: 5px;
+  }
+  
+  /*==images==*/
+  .social-media-image-two {
+    width: 35px;
+    border: 1px solid magenta;
+  }
+
+  .footer-container {
+    
+    padding: 1em 0;
+    background-color: #E0DBD9;
+  }
+
+  .footer-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: .65em; 
+  }

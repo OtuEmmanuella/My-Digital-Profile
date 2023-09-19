@@ -1,0 +1,47 @@
+.name {
+  font-size: 1.6rem;
+}
+
+.subtitle {
+  font-size: .9rem;
+  font-weight: 400;
+  margin-top: .2em;
+}
+
+.social-media-image-one {
+  width: 15px;
+  border: 1px solid magenta;
+}
+
+.profile-main {
+  border: 1px solid blue;
+  padding: 1em 0;
+  line-height: 1.5;
+}
+
+.info {
+  margin: 1em 0;
+  font-size: .85rem;
+ 
+}
+
+.icons-container {
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  gap: .65em; 
+  padding: 1em 0;
+}
+
+.social-media-links {
+  border: 1px solid magenta;
+  /* background-color: #C0B0A9; */
+  background-color:#E0DBD9;
+  font-weight: bold;
+  color: #56627A;
+  display: flex;
+  align-items: center;
+  gap: .5em;
+  padding: .5em 1em;
+  border-radius: 5px;
+}
