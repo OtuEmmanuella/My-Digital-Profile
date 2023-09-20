@@ -1,11 +1,13 @@
-import React from "react";
+import React from "react"
 
 export default function ProfileImage() {
   return (
-    <img
+    <div className="image-container">
+      <img
         src="public/images/Ella.jpg"
         alt="My image"
         className="profile-image"
       />
+    </div>
   )
 }

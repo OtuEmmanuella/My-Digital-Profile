@@ -1,14 +1,14 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: 0;
+  box-sizing: border-box;
 }
 
  body {
   /* color: #333333; */
    /* background-color:#C0B0A9; */
    font-family: 'Inter', sans-serif;
-   background-color: #56627A;
+   /* background-color: #56627A; */
    color: #E0DBD9;
    display: flex;
    justify-content: center;
@@ -18,17 +18,18 @@
 
 .profile-intro {
   text-align: center;
-  padding-top: 1em;
-  border: 1px solid green;
+  padding-top: .5em;
 }
 
 /*==Main==*/
 
 .container {
-  border: 1px solid goldenrod;
-  width: 90%;
-  max-width: 875px;
+  width: 67%;
+  max-width: 600px;
   margin: 0 auto;
+  background-color: #56627A;
+  /* border-top-left-radius: 9px;
+  border-top-right-radius: 9px; */
 }
 
 

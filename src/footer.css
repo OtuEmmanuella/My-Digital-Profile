@@ -1,0 +1,27 @@
+.footer-links {
+   background-color: #C0B0A9; 
+  font-weight: bold;
+  color: #56627A;
+  display: flex;
+  align-items: center;
+  gap: .5em;
+  border-radius: 5px;
+  }
+  
+  .social-media-image-two {
+    width: 30px;
+  }
+
+  .footer-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: .65em; 
+    background-color: #0d1422;
+    width: 67%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: .5em 0;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
+  

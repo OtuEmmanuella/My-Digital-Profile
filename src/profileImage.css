@@ -1,0 +1,17 @@
+.profile-image {
+  width: 100%;
+  height: 35vh;
+  display: block;
+  object-fit: cover;
+  border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
+}
+
+.image-container {
+  width: 67%;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #56627A;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px; 
+}

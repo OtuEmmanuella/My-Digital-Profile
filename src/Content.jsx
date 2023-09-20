@@ -37,27 +37,16 @@ export default function Content() {
         </div>
       </section>
       <section className="profile-main">
-        <h2 className="about">About</h2>
+        <h2 className="subheadings">About</h2>
         <p className="info">
           I am a passionate frontend developer with a love for problem-solving.
-          I thrive on challenges and embrace every opportunity to learn and
-          grow. My resilient nature fuels my enthusiasm for creating elegant
-          solutions to complex problems. I'm dedicated to crafting user-friendly
-          interfaces and continuously expanding my skills in the ever-evolving
-          world of web development.
+          My resilient nature fuels my enthusiasm for creating elegant solutions
+          to complex problems.
         </p>
-        <h2>Interests</h2>
+        <h2 className="subheadings">Interests</h2>
         <p className="info">
-          Exploring life through various passions, I'm an avid reader and a
-          professional chef who embraces the art of culinary creation. As an
-          entrepreneur, I'm driven by innovation and growth. My love for travel
-          and gastronomy fuels my curiosity for diverse cultures and flavors.
-          I'm equally passionate about crafting delectable dishes and enjoying
-          them. Music resonates deeply with me, and I find inspiration in its
-          melodies. As a healthy nutrition enthusiast and biochemist, I'm
-          fascinated by the science of nourishing our bodies. Writing is my
-          creative outlet, and fashion is my canvas for self-expression. Life is
-          a vibrant tapestry, and I relish every thread.
+          I'm an avid reader, a professional chef who embraces the art of
+          culinary creation, an entrepreneur, creative writer, and fashionista.
         </p>
       </section>
     </section>

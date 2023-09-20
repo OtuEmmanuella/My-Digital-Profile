@@ -1,10 +1,9 @@
 import React from "react"
 
-
 export default function Footer() {
   return (
-    <footer className="footer-container" >
-     <div className ="container footer-wrapper">
+    <footer className="footer-container">
+      <div className="footer-wrapper">
         <a
           href="https://www.linkedin.com/in/emmanuella-otu-6694b6260"
           target="_blank"
@@ -38,8 +37,7 @@ export default function Footer() {
             className="social-media-image-two"
           />
         </a>
-        </div>
-      </footer>
-
+      </div>
+    </footer>
   )
 }
