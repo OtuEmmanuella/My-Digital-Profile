@@ -1,5 +1,6 @@
 import React from "react"
 
+
 export default function Content() {
   return (
     <section className="container">
@@ -15,7 +16,7 @@ export default function Content() {
             className="social-media-links"
           >
             <img
-              src="public/images/email.png"
+              src= "public/images/email.png"
               alt="An Email Icon"
               className="social-media-image-one"
             />
@@ -28,7 +29,7 @@ export default function Content() {
             className="social-media-links"
           >
             <img
-              src="public/images/linkedin.png"
+              src= "public/images/linkedin.png"
               alt="LinkedIn Icon"
               className="social-media-image-one"
             />
